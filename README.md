@@ -12,5 +12,5 @@ This is not a bold text
 
 _This is italics_
 
-[![Foo](https://media.giphy.com/media/3ohs87AsEO6LRBBdPG/giphy.gif)
+![Foo](https://media.giphy.com/media/3ohs87AsEO6LRBBdPG/giphy.gif)
 
