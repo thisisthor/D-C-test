@@ -6,7 +6,11 @@ This is not a bold text
 
 **This is a bold text**
 
-***This is Itlaics***
+***This is italics***
+
+*This is italics*
+
+_This is italics_
 
 [![Foo](https://media.giphy.com/media/3ohs87AsEO6LRBBdPG/giphy.gif)
 
