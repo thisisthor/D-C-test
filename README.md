@@ -9,3 +9,4 @@ This is not a bold text
 ***This is Itlaics***
 
 [![Foo](https://media.giphy.com/media/3ohs87AsEO6LRBBdPG/giphy.gif)
+
